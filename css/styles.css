@@ -2,8 +2,30 @@
 .rounded{
     border-radius: 20px;
 }
-figure>img{
-    display: block;
-    width: 20%;
-    margin: auto;
+
+body{
+    background: lavenderblush;
 }
+section{
+    background: white;
+    width: 20%;
+    margin: auto ;
+    margin-top: 10%;
+}
+figure>img{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1,p{
+    width: 80%;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.center{
+    text-align: center;
+}
+
+
