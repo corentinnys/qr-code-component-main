@@ -29,3 +29,10 @@ h1,p{
 }
 
 
+@media screen and (max-width: 480px) {
+    section {
+        width: 90%;
+    }
+}
+
+
